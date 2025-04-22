@@ -9,15 +9,6 @@ Built with:
 - **Ollama LLMs** (e.g.,DeepSeek)
 - **Streamlit** (UI)
 
----
-
-## 🚀 Features
-- Semantic search over meme captions
-- Smart AI-generated responses
-- Fast retrieval using FAISS
-- Easy-to-use Streamlit interface
-
----
 
 ## ⚡ Quickstart
 
