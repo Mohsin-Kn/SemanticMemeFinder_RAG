@@ -1,0 +1,6 @@
+datasets
+langchain
+sentence-transformers
+faiss-cpu
+ollama
+streamlit
